@@ -4,14 +4,14 @@
 Welcome to my **Beginner Banking System Project**!  
 This is a simple command-line banking application written in **Python**, designed as a practice project for learning object-oriented programming (OOP), file handling, and testing using `unittest`. 🚀
 
-You can create a bank account, login, deposit, withdraw, transfer money, and even get charged for overdrafts—just like real banking, but in a fun and beginner-friendly way! 😄
+You can create a bank account, login, deposit, withdraw, transfer money, and even get charged for overdrafts—just like real banking, 
 
 ---
 
-## 📋 App Functionality (User Stories)
+## 📋 App Functionality 
 
 | Feature                                         | Description                                                                 |
-|------------------------------------------------|-----------------------------------------------------------------------------|
+|-------------------------------------------------|-----------------------------------------------------------------------------|
 | ✅ Create Account                               | New users can register with ID, name, password, and initial balances.       |
 | ✅ Login                                        | Secure login using account ID and password.                                |
 | ✅ View Balance                                 | Display balances for Checking and Savings accounts.                         |
@@ -43,10 +43,8 @@ You can create a bank account, login, deposit, withdraw, transfer money, and eve
 - Password encryption (instead of plain text).
 - Admin dashboard to view all customer data.
 - Export transaction summary to PDF.
-- Monthly interest calculator for savings account.
-- GUI version using Tkinter or PyQt.
+- Monthly interest calculator for savings account..
 - Email notifications for large withdrawals or overdrafts.
-- ATM simulation with card authentication.
 
 ---
 
@@ -56,7 +54,7 @@ You can create a bank account, login, deposit, withdraw, transfer money, and eve
 - Handling overdraft logic while keeping the account rules simple.
 - Learning how to write **unit tests** and apply **TDD**.
 - Using CSV files to store data persistently.
-- Keeping the code **beginner-friendly** while still covering **real banking logic**.
+- Keeping the code friendlycovering banking logic**.
 
 ---
 
@@ -80,7 +78,6 @@ You can create a bank account, login, deposit, withdraw, transfer money, and eve
 
 ---
 
-Thanks for checking out my project 💖  
-Feel free to fork, modify, or just get inspired!
+Thanks for reading out my project 💖  
 
 > _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
